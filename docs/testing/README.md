@@ -1,6 +1,6 @@
 # Testing Documentation
 
-This folder contains all testing guides and setup instructions.
+This folder contains all testing guides, setup instructions, and test execution documentation.
 
 ## Files
 
@@ -9,6 +9,8 @@ This folder contains all testing guides and setup instructions.
 - **TESTING_SETUP.md** - Detailed setup instructions
 - **TESTING_CHECKLIST.md** - Testing checklist
 - **TESTING_READY.md** - Status of testing infrastructure
+- **TEST_EXECUTION_GUIDE.md** - How to run all tests
+- **TEST_REPORT.md** - Test report template
 
 ## Quick Start
 

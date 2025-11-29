@@ -243,15 +243,15 @@ With these items addressed, the application will be fully production-ready.
 - `supply-chain-dapp/src/hooks/useContract.js` - Fixed async provider update
 
 ### Documentation Created
-- `docs/AUDIT_REPORT.md`
-- `docs/FIXES_APPLIED.md`
-- `docs/TEST_EXECUTION_GUIDE.md`
-- `docs/TEST_REPORT.md`
-- `docs/PRODUCTION_READINESS.md`
-- `docs/AUDIT_SUMMARY.md` (this file)
+- `docs/audit/AUDIT_REPORT.md`
+- `docs/audit/FIXES_APPLIED.md`
+- `docs/testing/TEST_EXECUTION_GUIDE.md`
+- `docs/testing/TEST_REPORT.md`
+- `docs/audit/PRODUCTION_READINESS.md`
+- `docs/audit/AUDIT_SUMMARY.md` (this file)
 
 ### Documentation Updated
-- `docs/troubleshooting.md`
+- `docs/guides/troubleshooting.md`
 
 ### Scripts Created
 - `scripts/run-tests.sh`
@@ -265,8 +265,8 @@ With these items addressed, the application will be fully production-ready.
 ---
 
 For detailed information, refer to:
-- **AUDIT_REPORT.md** - Complete audit findings
-- **FIXES_APPLIED.md** - All fixes and remaining issues
-- **PRODUCTION_READINESS.md** - Deployment readiness assessment
-- **TEST_EXECUTION_GUIDE.md** - How to run tests
+- **[Audit Report](./AUDIT_REPORT.md)** - Complete audit findings
+- **[Fixes Applied](./FIXES_APPLIED.md)** - All fixes and remaining issues
+- **[Production Readiness](./PRODUCTION_READINESS.md)** - Deployment readiness assessment
+- **[Test Execution Guide](../testing/TEST_EXECUTION_GUIDE.md)** - How to run tests
 

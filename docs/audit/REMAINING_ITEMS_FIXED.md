@@ -46,7 +46,7 @@ The first two remaining items from the audit have been successfully addressed.
 
 ### Documentation
 
-Created `docs/DEPENDENCY_VULNERABILITIES.md` with:
+Created `docs/audit/DEPENDENCY_VULNERABILITIES.md` with:
 - Detailed vulnerability status
 - Risk assessment
 - Mitigation strategies
@@ -112,11 +112,11 @@ The remaining item is:
 ### Created
 - `supply-chain-dapp/.env.example`
 - `supply-chain-contract/.env.example`
-- `docs/DEPENDENCY_VULNERABILITIES.md`
-- `docs/REMAINING_ITEMS_FIXED.md` (this file)
+- `docs/audit/DEPENDENCY_VULNERABILITIES.md`
+- `docs/audit/REMAINING_ITEMS_FIXED.md` (this file)
 
 ### Updated
-- `docs/FIXES_APPLIED.md` - Updated status of remaining items
+- `docs/audit/FIXES_APPLIED.md` - Updated status of remaining items
 
 ## Conclusion
 

@@ -18,7 +18,7 @@ This audit report documents the current state of the Supply Chain Tracking appli
 - ✅ Good use of custom hooks and service layer
 
 **Files Reviewed:**
-- `docs/ARCHITECTURE.md` - Comprehensive architecture documentation
+- `docs/development/ARCHITECTURE.md` - Comprehensive architecture documentation
 - `supply-chain-dapp/src/App.js` - Main application component
 - `supply-chain-contract/contracts/SupplyChain.sol` - Smart contract
 

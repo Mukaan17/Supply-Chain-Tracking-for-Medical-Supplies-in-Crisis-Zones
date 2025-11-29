@@ -80,7 +80,7 @@ npm start
 
 ## Configuration
 
-See [Configuration Guide](docs/CONFIGURATION.md) for detailed configuration options.
+See [Configuration Guide](docs/guides/CONFIGURATION.md) for detailed configuration options.
 
 ### Environment Variables
 
@@ -109,7 +109,7 @@ cd supply-chain-dapp
 npm run build
 ```
 
-See [Deployment Guide](docs/DEPLOYMENT.md) for detailed deployment instructions.
+See [Deployment Guide](docs/guides/deployment.md) for detailed deployment instructions.
 
 ## Testing
 
@@ -147,20 +147,28 @@ For comprehensive testing documentation, see:
 - Reentrancy protection
 - Access control (RBAC)
 
-See [Security Documentation](docs/SECURITY.md) for details.
+See [Security Documentation](docs/development/security.md) for details.
 
 ## Documentation
 
 ### Core Documentation
 
-- [Configuration Guide](docs/CONFIGURATION.md)
-- [Deployment Guide](docs/deployment.md)
-- [Security Documentation](docs/security.md)
-- [Contract API](docs/contract-api.md)
-- [Setup Instructions](docs/setup.md)
-- [Troubleshooting](docs/troubleshooting.md)
-- [Architecture](docs/ARCHITECTURE.md)
-- [API Documentation](docs/API.md)
+**User Guides:**
+- [Setup Guide](docs/guides/setup.md)
+- [Configuration Guide](docs/guides/CONFIGURATION.md)
+- [Deployment Guide](docs/guides/deployment.md)
+- [Troubleshooting](docs/guides/troubleshooting.md)
+
+**API Documentation:**
+- [API Reference](docs/api/API.md)
+- [Contract API](docs/api/contract-api.md)
+- [Frontend Usage](docs/api/frontend-usage.md)
+
+**Development:**
+- [Architecture](docs/development/ARCHITECTURE.md)
+- [Security Documentation](docs/development/security.md)
+- [Performance](docs/development/PERFORMANCE.md)
+- [Accessibility](docs/development/ACCESSIBILITY.md)
 
 ### Testing & Status
 

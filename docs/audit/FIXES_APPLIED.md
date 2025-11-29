@@ -59,7 +59,7 @@ This document tracks all fixes applied during the audit and remediation process.
 ### Documentation
 
 #### 1. Audit Report
-**File:** `docs/AUDIT_REPORT.md`
+**File:** `docs/audit/AUDIT_REPORT.md`
 
 **Content:**
 - Comprehensive assessment of current state
@@ -69,7 +69,7 @@ This document tracks all fixes applied during the audit and remediation process.
 - Testing plan
 
 #### 2. Fixes Applied Document
-**File:** `docs/FIXES_APPLIED.md` (this file)
+**File:** `docs/audit/FIXES_APPLIED.md` (this file)
 
 **Content:**
 - Tracks all fixes applied
@@ -90,7 +90,7 @@ This document tracks all fixes applied during the audit and remediation process.
      - Frontend: 2 high/moderate (build-time only, require breaking changes)
      - Contract: 1 critical, 10 low (dev tools only, no fixes available)
    - **Risk Assessment:** ✅ Safe for production (remaining issues are dev-only)
-   - **Documentation:** See `docs/DEPENDENCY_VULNERABILITIES.md`
+   - **Documentation:** See `docs/audit/DEPENDENCY_VULNERABILITIES.md`
 
 2. **Missing .env.example Files** ✅ FIXED
    - **Status:** ✅ Created
