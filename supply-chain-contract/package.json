@@ -17,22 +17,27 @@
     "lint": "solhint 'contracts/**/*.sol'",
     "lint:fix": "solhint 'contracts/**/*.sol' --fix"
   },
-  "keywords": ["supply-chain", "blockchain", "ethereum", "solidity"],
+  "keywords": [
+    "supply-chain",
+    "blockchain",
+    "ethereum",
+    "solidity"
+  ],
   "author": "",
   "license": "MIT",
   "description": "Enterprise-grade supply chain tracking smart contract",
   "devDependencies": {
-    "@nomicfoundation/hardhat-ethers": "^3.0.0",
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
-    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "^3.0.3",
     "@typechain/ethers-v6": "^0.5.0",
     "@typechain/hardhat": "^9.0.0",
     "chai": "^4.3.0",
     "dotenv": "^17.2.2",
     "hardhat": "^2.22.0",
     "hardhat-gas-reporter": "^1.0.9",
-    "solidity-coverage": "^0.8.5",
     "solhint": "^4.0.0",
+    "solidity-coverage": "^0.7.22",
     "typechain": "^8.3.0"
   },
   "dependencies": {
